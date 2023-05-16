@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#titulo{
+    margin-top: 5%;
+}
+#col1{
+    margin-top: 5%;
+    font-size: large;
+}
+
+#col2{
+    margin-top: 5%;
+    font-size: large;
+    justify-content: center;
+    
+}
+#general{
+    text-align: center;
+}
+
+
+#detalle{
+    margin-top: 100px;
+    margin-left: 10%;
+}
+
+#verde{
+    border: solid 2px 
+}
+
+#rojo{
+    border: solid 2px 
+}
